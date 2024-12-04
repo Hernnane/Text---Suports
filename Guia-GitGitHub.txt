@@ -1,0 +1,109 @@
+
+=============================
+   Guia Rápido: Git e GitHub
+=============================
+
+## CONFIGURAÇÃO INICIAL (FAZER UMA VEZ POR MÁQUINA)
+1. Configura seu nome e email:
+   git config --global user.name "Seu Nome"
+   git config --global user.email "seuemail@exemplo.com"
+
+2. Checar se tá tudo certo:
+   git config --list
+
+=============================
+## COMEÇANDO UM PROJETO NOVO
+### Criar um repositório local e subir pro GitHub:
+1. Dentro da pasta do projeto:
+   git init              # Inicia o repositório Git
+   git add .             # Adiciona TODOS os arquivos
+   git commit -m "Primeiro commit"  # Salva o commit inicial
+
+2. Criar o repositório no GitHub (via site ou API) e pegar o link HTTPS
+
+3. Vincular com o repositório remoto:
+   git remote add origin https://github.com/seu-usuario/repositorio.git
+
+4. Subir o código pro GitHub:
+   git branch -M main      # Renomeia a branch para 'main' (padrão GitHub)
+   git push -u origin main # Sobe o código e define o branch remoto padrão
+
+=============================
+## FLUXO BÁSICO DE TRABALHO (ADICIONAR, COMMITAR E SUBIR)
+Sempre que editar ou criar arquivos:
+1. Checar status do repositório:
+   git status
+2. Adicionar arquivos:
+   git add arquivo.txt     # Adiciona um arquivo específico
+   git add .               # Adiciona TODOS os arquivos alterados
+3. Salvar mudanças:
+   git commit -m "Descrição do que foi feito"
+4. Subir para o GitHub:
+   git push
+
+=============================
+## ATUALIZAR CÓDIGO LOCAL COM O GITHUB (PULL)
+Sempre que estiver em outra máquina ou antes de começar a trabalhar:
+   git pull origin main
+
+=============================
+## CRIAR E TRABALHAR EM BRANCHES
+### Criar uma nova branch e trocar para ela:
+   git branch nome-da-branch
+   git checkout nome-da-branch
+
+### Fazer mudanças e subir:
+   git add .
+   git commit -m "Mudanças na branch"
+   git push -u origin nome-da-branch
+
+### Voltar para a branch principal (main):
+   git checkout main
+
+### Unir branches (merge):
+1. Volte para a branch principal:
+   git checkout main
+2. Atualize o código local:
+   git pull origin main
+3. Junte as mudanças:
+   git merge nome-da-branch
+4. Suba para o GitHub:
+   git push
+
+=============================
+## CORRIGINDO ERROS COMUNS
+### 1. Esqueceu de adicionar algo no último commit?
+   git add arquivo-ou-tudo
+   git commit --amend -m "Descrição corrigida"
+   git push --force           # Sobrescreve o commit no GitHub
+
+### 2. Voltar um arquivo a como estava no último commit:
+   git checkout HEAD arquivo.txt
+
+### 3. Resetar tudo ao último commit (CUIDADO! PERDE MUDANÇAS):
+   git reset --hard HEAD
+
+=============================
+## COMANDOS ÚTEIS PARA O DIA A DIA
+### Ver histórico de commits:
+   git log --oneline          # Mostra um histórico resumido
+
+### Ver diferenças em arquivos:
+   git diff                   # Mostra mudanças não commitadas
+   git diff nome-do-arquivo   # Mostra mudanças em um arquivo específico
+
+### Deletar branch local ou remota:
+   git branch -d nome-da-branch        # Deletar branch local
+   git push origin --delete nome-da-branch # Deletar branch remota
+
+### Clonar um repositório existente (começar a trabalhar):
+   git clone https://github.com/seu-usuario/repositorio.git
+   cd repositorio
+
+=============================
+DICAS FINAIS:
+1. Puxe (`git pull`) sempre antes de começar a trabalhar.
+2. Comente commits de forma clara, descrevendo o que mudou.
+3. Não suba código quebrado no `main`, use branches para testar antes.
+
+=============================

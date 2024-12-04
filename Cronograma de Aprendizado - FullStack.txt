@@ -1,0 +1,99 @@
+Plano de Estudo Detalhado para Full Stack Developer (3 meses)
+
+Mês 1
+
+Semana 1-2:
+Dia 1: Introdução ao HTML5: Estrutura básica, tags, cabeçalhos, parágrafos, listas.
+Dia 2: CSS3: Seletores, propriedades, box model, bordas, margens, padding.
+Dia 3: CSS3: Layouts (flexbox, grid).
+Dia 4: Prática HTML e CSS: Criar páginas simples.
+Dia 5: JavaScript: Sintaxe básica, variáveis, tipos de dados.
+Dia 6: JavaScript: Estruturas de controle (if, else, switch).
+Dia 7: JavaScript: Funções e manipulação de arrays.
+Dia 8: Prática JavaScript: Criar interações simples.
+Dia 9: Git: Conceitos básicos (init, commit, push, pull, clone).
+Dia 10: Git: Criando branches, resolução de conflitos.
+Dia 11: React: Introdução, criando o primeiro componente.
+Dia 12: React: Props e state.
+Dia 13: React: Manipulando eventos.
+Dia 14: Prática React: Criar app simples.
+
+Semana 3-4:
+Dia 15: Node.js: Introdução ao Node.js, instalação, primeiros passos.
+Dia 16: Node.js: Módulos e npm (Node Package Manager).
+Dia 17: Node.js: Criar servidor simples com Express.
+Dia 18: Node.js: Trabalhando com requisições HTTP (GET, POST).
+Dia 19: Node.js: Conectando com banco de dados SQL.
+Dia 20: Node.js: CRUD básico com banco de dados relacional.
+Dia 21: Prática Node.js: Criar API simples.
+Dia 22: React: Conectar front-end React com back-end Node.js.
+Dia 23: MongoDB: Introdução ao MongoDB, instalação.
+Dia 24: MongoDB: Operações básicas (inserir, buscar, atualizar, excluir).
+Dia 25: MongoDB: Integrando MongoDB com Node.js.
+Dia 26: GraphQL: Introdução e diferenças para REST.
+Dia 27: GraphQL: Configuração básica e criando queries.
+Dia 28: Prática GraphQL: Integrar GraphQL com Node.js.
+
+Mês 2
+
+Semana 1-2:
+Dia 29: Node.js: Autenticação com JWT (JSON Web Tokens).
+Dia 30: Node.js: Validação de formulários.
+Dia 31: Node.js: Criação de middlewares.
+Dia 32: Node.js: Upload de arquivos (form-data).
+Dia 33: React: Hooks básicos (useState, useEffect).
+Dia 34: React: Gerenciamento de estado global com Context API.
+Dia 35: React: Roteamento com React Router.
+Dia 36: React: Trabalhando com formulários.
+Dia 37: React: Consumindo APIs com Fetch ou Axios.
+Dia 38: MongoDB: Modelagem de dados no MongoDB.
+Dia 39: MongoDB: Agregações e indexação.
+Dia 40: MongoDB: Refatoração de código e otimização.
+Dia 41: Prática React e Node.js: Criar app de CRUD completo.
+Dia 42: Node.js: Implementação de upload e download de arquivos.
+
+Semana 3-4:
+Dia 43: Docker: Introdução ao Docker, instalação.
+Dia 44: Docker: Conceitos de containers e imagens.
+Dia 45: Docker: Criando Dockerfile e docker-compose.
+Dia 46: Docker: Deploy de app Node.js em Docker.
+Dia 47: Git: Branching, tags, merge, pull requests.
+Dia 48: CI/CD: Introdução ao conceito de integração contínua e entrega contínua.
+Dia 49: CI/CD: Configuração básica com GitHub Actions.
+Dia 50: CI/CD: Automação de testes e deploy com CI/CD.
+Dia 51: Kubernetes: Introdução ao Kubernetes.
+Dia 52: Kubernetes: Conceitos básicos (Pods, Deployments, Services).
+Dia 53: AWS: Introdução ao Amazon Web Services.
+Dia 54: AWS: Implementação de simples serviço EC2.
+Dia 55: Prática CI/CD e Docker: Realizar deploy contínuo do app React/Node.
+
+Mês 3
+
+Semana 1-2:
+Dia 56: React Native: Introdução ao React Native.
+Dia 57: React Native: Criar app simples com React Native.
+Dia 58: React Native: Integração com APIs.
+Dia 59: AWS: Trabalhando com S3 (armazenamento de arquivos).
+Dia 60: AWS: Criando Lambda Functions.
+Dia 61: TypeScript: Introdução ao TypeScript.
+Dia 62: TypeScript: Tipos de dados e interfaces.
+Dia 63: TypeScript: Integrando com React.
+Dia 64: TypeScript: Configuração de ferramentas e projetos.
+Dia 65: Prática TypeScript: Refatorar projetos React para TypeScript.
+Dia 66: Prática: Testes de unidade com Jest e Enzyme.
+Dia 67: Prática: Criar API RESTful com validações e autenticação.
+Dia 68: Prática: Finalizar projeto Full Stack e preparar portfólio.
+
+Semana 3-4:
+Dia 69: Revisão de todos os conceitos de frontend e backend.
+Dia 70: Revisão de Git, Docker, CI/CD.
+Dia 71: Revisão de AWS, Kubernetes, Docker.
+Dia 72: Finalização de portfólio e atualização no GitHub.
+Dia 73: Aplicação para vagas de estágio e junior.
+Dia 74: Preparação para entrevistas: Estudo de algoritmos e estrutura de dados.
+Dia 75: Simulação de entrevista técnica.
+Dia 76: Simulação de entrevista comportamental.
+Dia 77: Continuação de aplicação para vagas e personalização do LinkedIn.
+Dia 78: Finalização de carta de apresentação e CV.
+Dia 79: Contato com recrutadores no LinkedIn.
+Dia 80: Finalização de aplicações e monitoramento de respostas.

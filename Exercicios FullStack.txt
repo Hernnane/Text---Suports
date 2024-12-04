@@ -1,0 +1,67 @@
+Lista de Exercícios e Projetos para Full Stack Developer
+
+Prática HTML e CSS: Criar páginas simples:
+- Exercício 1: Crie uma página de portfólio com uma barra de navegação, uma seção 'Sobre' e uma seção 'Contato'.
+- Exercício 2: Crie uma página de blog com um cabeçalho fixo, lista de postagens e footer com links.
+- Exercício 3: Utilize Flexbox para organizar um layout com 3 colunas: uma para navegação, outra para conteúdo e uma última para widgets.
+- Exercício 4: Crie uma página responsiva usando media queries para ajustar o layout em diferentes tamanhos de tela.
+
+Prática JavaScript: Criar interações simples:
+- Exercício 1: Crie um contador que aumenta ou diminui o valor ao clicar em botões.
+- Exercício 2: Crie um formulário com campos obrigatórios e exiba uma mensagem de erro caso o usuário não preencha corretamente.
+- Exercício 3: Crie uma lista interativa onde o usuário pode adicionar ou remover itens.
+- Exercício 4: Implemente uma calculadora simples com operações de soma, subtração, multiplicação e divisão.
+
+Prática React: Criar app simples:
+- Exercício 1: Crie um app de 'To-Do List' com capacidade de adicionar, editar e remover tarefas.
+- Exercício 2: Crie um app de contador utilizando hooks, onde o valor pode ser incrementado e decrementado.
+- Exercício 3: Crie um app de pesquisa de filmes que consome uma API pública e exibe os resultados.
+- Exercício 4: Crie um formulário de login que valida o nome de usuário e a senha.
+
+Prática Node.js: Criar API simples:
+- Exercício 1: Crie uma API RESTful com Node.js e Express que possua as rotas GET, POST, PUT e DELETE.
+- Exercício 2: Implemente um sistema de gerenciamento de tarefas com armazenamento em memória.
+- Exercício 3: Conecte sua API a um banco de dados MongoDB e crie as operações CRUD.
+- Exercício 4: Implemente uma API para gerenciamento de produtos de um e-commerce (CRUD básico).
+
+Prática GraphQL: Integrar GraphQL com Node.js:
+- Exercício 1: Crie um servidor GraphQL simples que retorna uma lista de usuários.
+- Exercício 2: Implemente consultas (queries) e mutações (mutations) para adicionar e buscar itens.
+- Exercício 3: Conecte o GraphQL com MongoDB e crie operações para criar e listar posts.
+- Exercício 4: Crie um sistema de autenticação simples utilizando GraphQL para login de usuário.
+
+Prática React e Node.js: Criar app de CRUD completo:
+- Exercício 1: Crie um aplicativo de CRUD (Criar, Ler, Atualizar, Deletar) de usuários com front-end em React e back-end em Node.js.
+- Exercício 2: Crie um sistema de gerenciamento de contatos onde o usuário pode adicionar, editar e excluir informações.
+- Exercício 3: Conecte o front-end React a uma API RESTful criada com Node.js.
+- Exercício 4: Implemente validação de dados no lado do servidor e do cliente (formulários e API).
+
+Prática CI/CD e Docker: Realizar deploy contínuo do app React/Node:
+- Exercício 1: Crie um Dockerfile para seu projeto React/Node.
+- Exercício 2: Crie um arquivo docker-compose.yml para rodar sua aplicação React e Node.js juntos.
+- Exercício 3: Realize o deploy da sua aplicação usando GitHub Actions para CI/CD.
+- Exercício 4: Automatize o deploy em um ambiente de produção (por exemplo, Heroku ou AWS).
+
+Prática TypeScript: Refatorar projetos React para TypeScript:
+- Exercício 1: Refatore um aplicativo de To-Do List em React para TypeScript, criando tipos para o estado e propriedades.
+- Exercício 2: Refatore um formulário de login em React para usar interfaces do TypeScript.
+- Exercício 3: Converta um projeto de React com Redux para TypeScript, tipando a store e os reducers.
+- Exercício 4: Adapte um projeto que consome APIs externas para TypeScript, tipando as respostas das APIs.
+
+Prática: Testes de unidade com Jest e Enzyme:
+- Exercício 1: Crie um teste unitário para uma função simples em JavaScript utilizando Jest.
+- Exercício 2: Crie testes unitários para os componentes React usando Jest e Enzyme.
+- Exercício 3: Crie mocks para testar uma função que consome dados de uma API.
+- Exercício 4: Crie testes de integração para garantir que os componentes React se comunicam corretamente com a API.
+
+Prática: Criar API RESTful com validações e autenticação:
+- Exercício 1: Implemente a autenticação JWT (JSON Web Token) em sua API RESTful.
+- Exercício 2: Adicione validações de dados de entrada na API com express-validator ou Joi.
+- Exercício 3: Crie um sistema de gerenciamento de usuários com autenticação e autorização.
+- Exercício 4: Adicione testes para a autenticação e validação na sua API RESTful.
+
+Prática: Finalizar projeto Full Stack e preparar portfólio:
+- Exercício 1: Finalize um projeto de CRUD completo com React no front-end e Node.js no back-end.
+- Exercício 2: Implemente login com autenticação e autorização em seu projeto.
+- Exercício 3: Crie um portfólio online com suas aplicações Full Stack, utilizando HTML, CSS, e links para os repositórios no GitHub.
+- Exercício 4: Faça deploy do seu projeto no GitHub Pages, Netlify ou Heroku para torná-lo acessível publicamente.

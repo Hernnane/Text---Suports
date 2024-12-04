@@ -1,0 +1,66 @@
+
+Prática HTML e CSS: Criar páginas simples.
+- Exercício 1: Planejar e criar uma página web simples com layout básico e estilizações de fundo. (2 horas)
+- Exercício 2: Criar uma página com navegação e links internos. (2 horas)
+- Exercício 3: Estilizar a página utilizando Flexbox e Grid Layout. (3 horas)
+- Exercício 4: Criar uma página responsiva usando media queries. (3 horas)
+
+Prática JavaScript: Criar interações simples.
+- Exercício 1: Criar um contador que utiliza eventos e manipulação do DOM. (2 horas)
+- Exercício 2: Desenvolver um formulário simples de cadastro e validação. (2 horas)
+- Exercício 3: Criar uma lista interativa onde o usuário pode marcar itens. (3 horas)
+- Exercício 4: Implementar uma calculadora simples com operações básicas. (3 horas)
+
+Prática React: Criar app simples.
+- Exercício 1: Estruturar o projeto To-Do List e manipular estado básico. (3 horas)
+- Exercício 2: Adicionar contadores e lógica de renderização dinâmica. (3 horas)
+- Exercício 3: Consumir API e integrar componentes. (4 horas)
+- Exercício 4: Criar formulário de login e validação. (4 horas)
+
+Prática Node.js: Criar API simples.
+- Exercício 1: Configurar estrutura inicial do projeto com Express. (3 horas)
+- Exercício 2: Criar sistema de gerenciamento de tarefas em memória. (3 horas)
+- Exercício 3: Conectar banco de dados MongoDB. (4 horas)
+- Exercício 4: Desenvolver gestão de produtos em e-commerce. (4 horas)
+
+Prática GraphQL: Integrar GraphQL com Node.js.
+- Exercício 1: Configurar servidor GraphQL e retornar dados básicos. (2 horas)
+- Exercício 2: Criar consultas e mutações básicas. (2 horas)
+- Exercício 3: Integrar banco de dados e gerenciar dados. (3 horas)
+- Exercício 4: Implementar sistema de autenticação usando GraphQL. (3 horas)
+
+Prática React e Node.js: Criar app de CRUD completo.
+- Exercício 1: Estruturar o projeto e configurar CRUD básico. (3 horas)
+- Exercício 2: Criar sistema de gerenciamento de contatos. (4 horas)
+- Exercício 3: Integrar API RESTful e validar entrada de dados. (4 horas)
+- Exercício 4: Finalizar sistema e depurar projeto. (3 horas)
+
+Prática CI/CD e Docker: Realizar deploy contínuo do app React/Node.
+- Exercício 1: Criar Dockerfile e configuração inicial. (2 horas)
+- Exercício 2: Usar docker-compose para execução do projeto. (2 horas)
+- Exercício 3: Configurar pipeline de CI/CD no GitHub Actions. (3 horas)
+- Exercício 4: Realizar automação do deploy em produção. (3 horas)
+
+Prática TypeScript: Refatorar projetos React para TypeScript.
+- Exercício 1: Tipar estado e propriedades do componente. (2 horas)
+- Exercício 2: Tipar formulários e lógica do projeto. (2 horas)
+- Exercício 3: Adaptar projeto com Redux para TypeScript. (3 horas)
+- Exercício 4: Integrar APIs e tipos no projeto. (3 horas)
+
+Prática Testes de unidade com Jest e Enzyme.
+- Exercício 1: Criar testes unitários para funções simples. (2 horas)
+- Exercício 2: Criar testes de componentes React usando Jest e Enzyme. (2 horas)
+- Exercício 3: Criar mocks e testes de integração. (3 horas)
+- Exercício 4: Validar comunicação entre componentes e API. (3 horas)
+
+Prática: Criar API RESTful com validações e autenticação.
+- Exercício 1: Configurar sistema de autenticação com JWT. (2 horas)
+- Exercício 2: Validar entrada de dados usando express-validator ou Joi. (2 horas)
+- Exercício 3: Gerenciar usuários e permissões. (3 horas)
+- Exercício 4: Criar testes de autenticação e validação. (3 horas)
+
+Prática: Finalizar projeto Full Stack e preparar portfólio.
+- Exercício 1: Estruturar CRUD e integrar back-end. (3 horas)
+- Exercício 2: Implementar login e autenticação. (3 horas)
+- Exercício 3: Criar portfólio online com HTML e CSS. (3 horas)
+- Exercício 4: Realizar deploy em produção e ajustes finais. (4 horas)
