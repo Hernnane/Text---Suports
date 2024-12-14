@@ -1,0 +1,66 @@
+
+**API de Gerenciamento de Tarefas**
+	- Objetivo: Criar uma API para gerenciar tarefas, permitindo que os usuários possam criar, visualizar, atualizar e deletar tarefas.
+   	- Funcionalidades principais:
+     	- CRUD (Create, Read, Update, Delete) de tarefas.
+     	- Campos: Título, descrição, status (pendente/concluído).
+   	- Tecnologias: Node.js, Express, MongoDB.
+
+************************************************************API | GERENCIAMENTO DE TAREFAS************************************************************
+1. Tabelas MongoDB:
+	=> TAREFAS:
+		*Id;
+		*Nome;
+		*Categoria;
+		*Descrição;
+		*TempoDuração;
+		*Status.
+		
+************************************************************CATEGORIAS************************************************************
+1. Tarefas Pessoais:
+    *Rotina Diária: Atividades que fazem parte do dia a dia, como exercícios, meditação, ou tarefas domésticas;
+    *Hobbies e Lazer: Leituras, jogos, filmes, ou atividades criativas;
+    *Saúde e Bem-estar: Consultas médicas, lembretes de medicamentos, ou prática de esportes.
+
+2. Trabalho e Estudos:
+    *Projetos: Tarefas relacionadas a projetos específicos;
+    *Reuniões e Eventos: Agendamento de compromissos e reuniões;
+    *Estudos: Leituras, trabalhos acadêmicos, revisões e provas;
+    *Prazos: Tarefas com deadlines, como relatórios ou entregas.
+
+3. Financeiro:
+    *Contas a Pagar: Lembretes de vencimento de contas;
+    *Orçamentos: Planejamento de despesas;
+    *Investimentos: Lembretes para monitorar ou fazer investimentos.
+
+4. Família e Social:
+    *Eventos Familiares: Aniversários, festas, encontros;
+    *Tarefas Compartilhadas: Compras de supermercado, organização da casa;
+    *Amigos e Redes Sociais: Planos de encontro, responder mensagens importantes.
+
+5. Desenvolvimento Pessoal:
+    *Metas Pessoais: Como aprender uma nova habilidade ou idioma;
+    *Livros e Cursos: Planejamento de leituras ou aprendizado online;
+    *Reflexões: Tarefas como escrever em um diário ou definir objetivos para a semana.
+
+6. Prioridade:
+
+    *Alta Prioridade: Tarefas urgentes ou críticas;
+    *Média Prioridade: Atividades importantes, mas não imediatas;
+    *Baixa Prioridade: Tarefas que podem ser adiadas.
+
+7. Lembretes e Tarefas Gerais:
+
+    *Lembretes Rápidos: Coisas a não esquecer, como ligar para alguém;
+    *Compras: Lista de itens para comprar;
+    *Tarefas Simples: Pequenas ações, como enviar um e-mail.
+
+8. Viagem e Planejamento:
+    *Planejamento de Viagens: Reservas, cronogramas, lista de bagagem;
+    *Tarefas Antes de Viajar: Cancelar serviços temporariamente, preparar documentos.
+
+9. Categorias Personalizáveis:
+    =>Deixe espaço para o usuário criar suas próprias categorias. Exemplos:
+        *Projetos Criativos;
+        *Eventos Especiais;
+        *Lista de Ideias.
