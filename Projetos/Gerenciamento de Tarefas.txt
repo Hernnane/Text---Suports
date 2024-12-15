@@ -6,15 +6,53 @@
      	- Campos: Título, descrição, status (pendente/concluído).
    	- Tecnologias: Node.js, Express, MongoDB.
 
-************************************************************API | GERENCIAMENTO DE TAREFAS************************************************************
+*******************************************************************************API | GERENCIAMENTO DE TAREFAS*******************************************************************************
 1. Tabelas MongoDB:
-	=> TAREFAS:
-		*Id;
-		*Nome;
-		*Categoria;
-		*Descrição;
-		*TempoDuração;
-		*Status.
+	
+	=> TABELAS DE USUÁRIO{
+		Cadastro: 
+			* Id 		-> 	INT;
+			* Nome 		-> 	STRING;
+			* Apelido 	-> 	STRING;
+			* Usuário 	-> 	STRING;
+			* Email 	-> 	STRING;
+			* Celular 	-> 	STRING;
+			* Senha 	-> 	STRING;
+			* Idade 	-> 	INT;
+			* Gênero 	-> 	STRING.
+
+		Login:
+			* Id 		-> 	INT;
+			* Usuário 	-> 	STRING;
+			* Email 	-> 	STRING;
+			* Senha 	-> 	STRING;
+
+			* UsuarioId	-> 	INT; <FK>
+
+		Perfil:
+			* Id 		-> 	INT;
+			* Nome 		-> 	STRING;
+			* Apelido 	-> 	STRING;
+			* Usuário 	-> 	STRING;
+			* Foto 		->	STRING;
+			* Email 	-> 	STRING;
+			* Celular 	-> 	STRING;
+			* Senha 	-> 	STRING;
+
+			* UsuarioId	-> 	INT; <FK>
+	}
+
+	=> TAREFA GENÉRICA{
+		Genérica:
+			* Id 		-> 	INT;
+			* Título	->	STRING;
+			* Descrição	->	STRING;
+			* Status	->	STRING;
+			* TempoDuração	->	INT;
+			* qtdeEtapas	->	INT;
+
+			* UsuarioId	-> 	INT; <FK>
+}
 		
 ************************************************************CATEGORIAS************************************************************
 1. Tarefas Pessoais:
