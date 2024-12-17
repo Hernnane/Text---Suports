@@ -1,0 +1,75 @@
+/* Estilização Geral da Lista (ul) */
+ul {
+    margin: 10px; /* Margem externa */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #f0f0f0; /* Cor de fundo */
+    border: 1px solid #ccc; /* Borda */
+    width: 300px; /* Largura */
+    list-style: square; /* Tipo do marcador: disc, circle, square, none */
+}
+
+/* Alterar os Marcadores da Lista */
+ul {
+    list-style-type: square; /* Outros: disc, circle, none */
+    list-style-image: url('marcador.png'); /* Imagem como marcador */
+    list-style-position: inside; /* Posicionamento do marcador: inside ou outside */
+}
+
+/* Estilização dos Itens da Lista (li) */
+li {
+    margin-bottom: 10px; /* Espaço entre itens */
+    color: #333; /* Cor do texto */
+    font-size: 18px; /* Tamanho da fonte */
+    font-family: Arial, sans-serif; /* Tipo de fonte */
+    font-weight: bold; /* Negrito */
+}
+
+/* Adicionando Ícones Customizados com ::before */
+li::before {
+    content: "\2713 "; /* Exemplo: ícone de checkmark */
+    color: green;
+    margin-right: 5px;
+}
+
+/* Lista Horizontal com Flexbox */
+ul {
+    display: flex;
+    gap: 10px; /* Espaço entre os itens */
+    list-style: none; /* Remove marcadores */
+    padding: 0;
+}
+li {
+    background-color: #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Lista com Grid */
+ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colunas */
+    gap: 10px; /* Espaçamento entre itens */
+    list-style: none;
+}
+li {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Efeitos com Hover */
+li:hover {
+    background-color: #ffcc00; /* Cor de fundo ao passar o mouse */
+    color: #000; /* Cor do texto */
+    cursor: pointer; /* Muda o cursor */
+    transition: all 0.3s ease; /* Transição suave */
+}
+
+/* Estilização com Bordas e Sombra */
+ul {
+    border: 2px solid #000; /* Borda */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+    padding: 15px;
+    border-radius: 10px; /* Cantos arredondados */
+}
