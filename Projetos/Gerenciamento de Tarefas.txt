@@ -52,7 +52,19 @@
 			* qtdeEtapas	->	INT;
 
 			* UsuarioId	-> 	INT; <FK>
-}
+	}
+	
+	=> Alertas{
+		Genérica:
+			* Id 		-> 	INT;
+			* Título	->	STRING;
+			* Descrição	->	STRING;
+			* Status	->	STRING;
+			* TempoDuração	->	INT;
+			* qtdeEtapas	->	INT;
+
+			* UsuarioId	-> 	INT; <FK>
+	}
 		
 ************************************************************CATEGORIAS************************************************************
 1. Tarefas Pessoais:
