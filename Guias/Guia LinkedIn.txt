@@ -1,0 +1,54 @@
+LinkedIn - FILTROS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. MATCH COM FILTROS E PALAVRAS-CHAVE:
+	=> Cargo atual e anteriores;
+	=> Experiências anteriores;
+	=> Competências listadas no perfil;
+	=> Formação acadêmica e cursos adicionais.
+
+[OBS => Se um candidato usa palavras-chave que correspondem ao job description ou aos filtros aplicados, ele tem mais chances de aparecer no topo]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. GRAU DE CONEXÃO COM RECRUTADOR:
+	=> 1 GRAU: Pessoas já conectadas ao recrutador aparecem primeiro;
+	=> 2 GRAU: Pessoas conectadas a conhecidos do recrutador aparecem primeiro;
+	=> 3 GRAU: Quanto mais distante a conexão, menor a prioridade.
+
+[OBS => Participar de grupos do linkedIn e seguir empresas aumenta a visibilidade para recrutadores]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. ENGAJAMENTO COM A EMPRESA:
+	=> Seguir a página da empresa;
+	=> Interação com postagens da empresa;
+	=> Inscrição em vagas anteriores.
+
+[OBS => Se um candidato já interagiu com a empresa antes, ele pode ser classificado como mais propenso a responder]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. ATIVIDADE E DISPONIBILIDADE DO CANDIDATO:
+	=> Quem atualizou o perfil mais recentemente pode ser priorizado;
+	=> Quem se inscreveu em outras vagas está sinalizando interesse;
+	=> Quem responde rapidamente ao InMail do recrutador ganha pontos de relevância.
+
+[OBS => MANTER O PERFIL ATUALIZADO E RESPONDER RAPIDAMENTE AS MENSAGENS AUMENTA A CHANCE DE SER PRIORIZADO]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. RELEVÂNCIA BASEADA NO "GRAFO ECONÔMICO" DO LINKEDIN:
+	=> Histórico profissional e como ele se conecta com tendências de mercado;
+	=> Rede de conexões para prever afinidade com determinadas empresas ou setores;
+	=> A trajetória profissional para prever se o candidato está pronto para o cargo.
+
+[OBS => UM CANDIDATO QUE SEGUE UM CAMINHO DE CARREIRA TÍPICO PARA UMA VAGA PODE SER FAVORECIDO]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. PONTUAÇÃO BASEADA EM IA E MACHINE LEARNING:
+	=> Habilidades listadas X habilidades esperadas para a vaga;
+	=> Padrões de contratações anteriores da empresa;
+	=> Histórico de sucesso de candidatos semelhantes.
+
+[OBS => PERFIS BEM PREENCHIDOS E OTIMIZADOS COM PALAVRAS-CHAVE ESTRATÉGICAS TÊM MAIS CHANCE DE SEREM RANQUEADOS NO TOPO]
